@@ -1,10 +1,10 @@
 {
     "domain": "8DLhrox9uDSRHtjFFE7pnCjBJWg5BC1tckUFHGcV7EM=",
     "token": "cERiBXIUXDrLCHBZmjJsDV19LnQV9O672bnzAeMUNba72SRrUojJ//QIl4iJiyot",
-	"maxRunCount": 5,
-	"minSleepTime": 50,
+    "maxRunCount": 5,
+    "minSleepTime": 50,
     "maxSleepTime": 120,
     "acceptInvitation": false,
     "browsePosts": false,
-	"autoChat": false
+    "autoChat": false
 }
