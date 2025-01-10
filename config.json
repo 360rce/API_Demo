@@ -6,5 +6,6 @@
     "maxSleepTime": 120,
     "acceptInvitation": false,
     "browsePosts": false,
-    "autoChat": false
+    "autoChat": false,
+	"sendMsgToGroup": true
 }
