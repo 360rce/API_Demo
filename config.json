@@ -7,5 +7,5 @@
     "acceptInvitation": false,
     "browsePosts": false,
     "autoChat": false,
-    "sendMsgToGroup": true
+    "autoGroupChat": true
 }
